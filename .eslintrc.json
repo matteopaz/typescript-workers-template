@@ -1,3 +1,4 @@
 {
-    "ignorePatterns": ["dist/*"]
+  "parser": "babel-eslint",
+  "ignorePatterns": ["dist/*"]
 }
